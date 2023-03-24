@@ -33,3 +33,28 @@
     margin-right:10px !important;
     margin-bottom:10px !important;
 }
+#webcam{
+    width:500px;
+    height: 400px;
+    border:5px solid red;
+}
+#rodape{
+    position:fixed;
+    bottom:0;
+    width:100%;
+    text-align:center;
+    line-height:3;
+    background-color:rgb(127.52, 127.5, 127.5);
+    color:rgb(0,  200, 255)
+}
+.div_img{
+    width:300px;
+    margin-bottom:100px;
+}
+.div_img:hover{
+    border-radius: 100px;
+    box-shadow: 10px 10px rgba(0, 200, 255, 0.5);
+}
+img:hover{
+    border-radius: 100px;
+}
